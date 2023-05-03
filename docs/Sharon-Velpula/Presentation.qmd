@@ -1,0 +1,96 @@
+---
+title: "DATA 303 Book Report Presentation"
+format: 
+  revealjs:
+    theme: beige
+editor: source
+---
+
+## Data Feminism {background-image="logo.jpg" background-size="350px"}
+
+## Authors
+
+Catherine D'Ignazio
+
+-   Software developer, experimental artist, professor
+
+-   Reframe data world with a feminist lens
+
+-   Expose power of liberal white people
+
+. . .
+
+Lauren F.Klein
+
+-   Software developer, studied American literature, professor
+
+-   Reveal issues of racism and sexism
+
+-   Help translate thinking to practice
+
+## About the Book
+
+Reveals the problem of racial injustice and misuse of power
+
+. . .
+
+-   Examine power
+
+-   Challenge power
+
+-   Elevate emotion and embodiment
+
+-   Rethink hierarchies
+
+-   Embrace pluralism
+
+-   Consider context
+
+-   Make labor visible
+
+::: {.notes}
+
+..story of Christine Darden, a data analyst at NASA’s Langley Research Center who made some crucial contributions just like many other women who were tasked with important jobs that advanced the NASA research but were never given credit for their contributions because of the discriminatory conditions that they worked under. 
+
+Data Feminism brings two aspects of feminism together, demonstrating a way of thinking about data, their analysis, and their display that is informed by this tradition of feminist activism as well as the legacy of feminist critical thought 
+
+•	Principle 1: Examining the operation of power to understand the subjects behind it, its medium and its target.
+
+•	Principle 2: Challenging the power requires knowing its history and then changing the narrative to that of equity and co-liberation.
+
+•	Principle 3: Elevating emotion and embodiment means accepting all forms of knowledge 
+
+•	Principle 4: Rethinking existing systems of hierarchies because of how they inform the processes of the technical system.
+
+•	Principle 5: Embracing pluralism means allowing time and space for a range of participants to contribute at all stages of that project.
+
+•	Principle 6: Considering context refers to looking at the big picture of all the individuals involved in a dataset or project.
+
+•	Principle 7: Making labor visible requires that efforts of every individual is recognized and receives the credit they deserve
+:::
+
+## Themes
+
+-   Examine power: Who does the work? Who benefits?
+
+-   Challenge unequal power structures that influence processes
+
+-   Recognize and rethink existing systems of oppression
+
+-   See the big picture: recognize efforts from every individual
+
+-   Accept all forms of knowledge (feminism)
+
+## Recommendation
+
+Yes, everyone should read it!
+
+-   Data Feminism is for people of all genders
+
+-   Addressed to professionals in all fields where data-driven decisions are made
+
+-   We live in a world full of information that we sometimes take for granted
+
+-   This book reminded me of how important it is to consider the big picture of any data, asking questions to validate its existence
+
+## Thank You!
